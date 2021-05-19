@@ -11,5 +11,3 @@ RUN pip install -e /detectron2_repo
 COPY . .
 
 CMD python3 bot.py
-
-RUN export TOKENBOT=1755900119:AAHb6FHMrBeM7ZxE2GYPeHWBhBcTf3Ej5vo
